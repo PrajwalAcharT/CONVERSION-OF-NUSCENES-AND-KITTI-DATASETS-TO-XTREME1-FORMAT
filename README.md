@@ -6,8 +6,7 @@ This repository contains scripts and tools to convert the nuScenes dataset into 
 
 ## Folder Structure
 
-```
-one_day/
+```File_Name/
 ├── nuscenes_data/                  # Original nuScenes dataset directory
 │   └── ...                        # nuScenes raw data files
 ├── kitti_output/                  # Output directory for KITTI formatted data
